@@ -5,5 +5,5 @@ Eg. level, borrow or rob, 1234321. In my palindrome checker, users can enter tex
 numbers and check whether the entered value is palindrome or not by clicking on 
 the check palindrome button. 
 
-URL: https://lacegiovanni17.github.io/Palindrome-checker/ 
+URL: https://palindrome-checker-by-henry.netlify.app
 
